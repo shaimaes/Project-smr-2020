@@ -12,9 +12,9 @@
 # import the necessary packages
 from pyimagesearch.centroidtracker import CentroidTracker
 from pyimagesearch.trackableobject import TrackableObject
+from pyimagesearch.led import led
 from imutils.video import VideoStream
 from imutils.video import FPS
-from pyimagesearch.led import led
 import numpy as np
 import argparse
 import imutils
